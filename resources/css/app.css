@@ -1,0 +1,35 @@
+.AgregarEmpleadoBoton{
+    float: right;
+}
+
+.toast {
+    background-color: #030303;
+  }
+  .toast-info {
+    background-color: #3276b1;
+  }
+  .toast-info2 {
+    background-color: #2f96b4;
+  }
+  .toast-error {
+    background-color: #bd362f;
+  }
+  .toast-success {
+    background-color: #51a351;
+  }
+  .toast-warning {
+    background-color: #f89406;
+  }
+
+  .LogoCompañia{
+    width: 40px;
+  }
+
+  .LogoCompañiaUpdate{
+    width: 200px;
+  }
+
+  .containerUpdate{
+    text-align: center;
+    margin: 0px 0px 10px 0px;
+  }
