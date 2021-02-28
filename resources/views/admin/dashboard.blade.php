@@ -39,7 +39,8 @@ $(function(){
           datasets: [
             {
               label: "Empleados",
-              backgroundColor: "#3e95cd",
+              backgroundColor: "#1e212d",
+              maxBarThickness: 25,
               data: noEmpleados
             }
           ]
@@ -54,7 +55,7 @@ $(function(){
                 stacked: true
             }],
             yAxes: [{
-                stacked: true
+                stacked: true,
             }]
         }
         }

@@ -13030,6 +13030,10 @@ h3 {
   overflow: visible;
   clip: auto;
 }
+body{
+  background-color: #faf3e0;
+}
+
 .AgregarEmpleadoBoton{
     float: right;
 }
@@ -13064,4 +13068,12 @@ h3 {
   .containerUpdate{
     text-align: center;
     margin: 0px 0px 10px 0px;
+  }
+
+  .navbar{
+    background-color: #b68973;
+  }
+
+  .card-header{
+    background-color: #eabf9f;
   }
